@@ -4,7 +4,6 @@
 // http://dimon.xgm.ru/xdep/
 // Visit our modmaking community at http://xgm.ru/
 
-
 function InitGlobals2 takes nothing returns nothing
 	local integer i=0
 	set i=0
@@ -17411,39 +17410,7 @@ function main2 takes nothing returns nothing
 	call TriggerAddAction(udg_trigger103,function strife_server_Actions)
 
 
-
-
 endfunction
-
-
-// 0 red
-// 1 blue
-// 2 teal
-// 3 purple
-// 4 yellow
-// 5 orange
-// 6 green
-// 7 pink
-// 8 gray 
-// 9 light blue
-// 10 dark green
-// 11 brown
-// 12 maroon
-// 13 navy
-// 14 violet
-// 15  wheat
-// 16 peach
-// 17 mint
-// 18 lavender
-// 19 coal
-// 20 snow
-// 21 emerald
-// 22 peanut
-// 23 neutral
-// 24 
-// 25 
-
-
 
 
 function InitTrig_init takes nothing returns nothing
